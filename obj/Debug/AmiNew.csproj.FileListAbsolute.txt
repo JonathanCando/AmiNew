@@ -1,0 +1,5 @@
+C:\Users\Jonathan\documents\visual studio 2012\Projects\AmiNew\AmiNew\bin\AmiNew.dll
+C:\Users\Jonathan\documents\visual studio 2012\Projects\AmiNew\AmiNew\bin\AmiNew.pdb
+C:\Users\Jonathan\documents\visual studio 2012\Projects\AmiNew\AmiNew\obj\Debug\AmiNew.dll
+C:\Users\Jonathan\documents\visual studio 2012\Projects\AmiNew\AmiNew\obj\Debug\AmiNew.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\AmiNew\AmiNew\obj\Debug\AmiNew.csprojResolveAssemblyReference.cache
